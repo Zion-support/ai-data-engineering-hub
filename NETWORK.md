@@ -1,6 +1,6 @@
 # AI Data Engineering Hub — Network Links
 
-Pipelines, data quality and lineage in one hub.
+Pipeline health, schema drift and data quality in one engineering console.
 
 ## Live
 - App: https://ziontechgroup.com/ai-data-engineering-hub/
@@ -9,8 +9,8 @@ Pipelines, data quality and lineage in one hub.
 
 ## Related apps
 - [data-contract-validator](https://ziontechgroup.com/data-contract-validator/) · [GitHub](https://github.com/Zion-support/data-contract-validator)
-- [demand-sensing-hub](https://ziontechgroup.com/demand-sensing-hub/) · [GitHub](https://github.com/Zion-support/demand-sensing-hub)
 - [ai-finops-suite](https://ziontechgroup.com/ai-finops-suite/) · [GitHub](https://github.com/Zion-support/ai-finops-suite)
+- [demand-sensing-hub](https://ziontechgroup.com/demand-sensing-hub/) · [GitHub](https://github.com/Zion-support/demand-sensing-hub)
 
 ## Network
 - Homepage: https://ziontechgroup.com
