@@ -1,10 +1,21 @@
-# AI Data Engineering Hub
+# AI Data Engineering Hub — Network Links
 
-Build data pipelines.
+Design and validate data pipelines with AI assistance.
+
+## Live
+- App: https://ziontechgroup.com/ai-data-engineering-hub/
+- Repo: https://github.com/Zion-support/ai-data-engineering-hub
+- Pages: https://zion-support.github.io/ai-data-engineering-hub/
+
+## Related apps
+- [ai-data-quality](https://ziontechgroup.com/ai-data-quality/) · [GitHub](https://github.com/Zion-support/ai-data-quality)
+- [data-contract-validator](https://ziontechgroup.com/data-contract-validator/) · [GitHub](https://github.com/Zion-support/data-contract-validator)
+- [rag-evaluator](https://ziontechgroup.com/rag-evaluator/) · [GitHub](https://github.com/Zion-support/rag-evaluator)
 
 ## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) · [zion-data-pipelines](https://github.com/Zion-support/zion-data-pipelines) · [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling) · [zion-ai-data-migration](https://github.com/Zion-support/zion-ai-data-migration) · [zion-ai-knowledge-graph](https://github.com/Zion-support/zion-ai-knowledge-graph)
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+*Zion Tech Group · part of the 703+ app AI network.*
