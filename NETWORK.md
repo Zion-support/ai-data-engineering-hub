@@ -1,6 +1,6 @@
 # AI Data Engineering Hub — Network Links
 
-Design and validate data pipelines with AI assistance.
+Pipelines, data quality and lineage in one hub.
 
 ## Live
 - App: https://ziontechgroup.com/ai-data-engineering-hub/
@@ -8,9 +8,9 @@ Design and validate data pipelines with AI assistance.
 - Pages: https://zion-support.github.io/ai-data-engineering-hub/
 
 ## Related apps
-- [ai-data-quality](https://ziontechgroup.com/ai-data-quality/) · [GitHub](https://github.com/Zion-support/ai-data-quality)
 - [data-contract-validator](https://ziontechgroup.com/data-contract-validator/) · [GitHub](https://github.com/Zion-support/data-contract-validator)
-- [rag-evaluator](https://ziontechgroup.com/rag-evaluator/) · [GitHub](https://github.com/Zion-support/rag-evaluator)
+- [demand-sensing-hub](https://ziontechgroup.com/demand-sensing-hub/) · [GitHub](https://github.com/Zion-support/demand-sensing-hub)
+- [ai-finops-suite](https://ziontechgroup.com/ai-finops-suite/) · [GitHub](https://github.com/Zion-support/ai-finops-suite)
 
 ## Network
 - Homepage: https://ziontechgroup.com
